@@ -5,19 +5,98 @@ const artists = [
             {
                 "name": "Hello",
                 "duration": 295,
-                "lyrics": "Hello, it's me \nI was wondering if after all these years \nYou'd like to meet, to go over everything \nThey say that time's supposed to heal ya \nBut I ain't done much healing\n \nHello, can you hear me? \nI'm in California dreaming about who we used to be \nWhen we were younger and free \nI've forgotten how it felt before the world fell at our feet \n\nThere's such a difference between us \nAnd a million miles \n\nHello from the other side \nI must've called a thousand times to tell you \nI'm sorry, for everything that I've done \nBut when I call you never seem to be home \n\nHello from the outside \nAt least I can say that I've tried to tell you \nI'm sorry, for breaking your heart \nBut it don't matter, it clearly doesn't tear you apart anymore \n\nHello, how are you? \nIt's so typical of me to talk about myself \nI'm sorry, I hope that you're well \nDid you ever make it out of that town \nWhere nothing ever happened? \n\nIt's no secret \nThat the both of us are running out of time \n\nSo hello from the other side \nI must've called a thousand times to tell you \nI'm sorry, for everything that I've done \nBut when I call you never seem to be home \n\nHello from the outside \nAt least I can say that I've tried to tell you \nI'm sorry, for breaking your heart \nBut it don't matter, it clearly doesn't tear you apart anymore \n\nOoooohh, anymore \nOoooohh, anymore \nOoooohh, anymore \nAnymore \n\nHello from the other side \nI must've called a thousand times to tell you \nI'm sorry, for everything that I've done \nBut when I call you never seem to be home \n\nHello from the outside \nAt least I can say that I've tried to tell you \nI'm sorry, for breaking your heart \nBut it don't matter, it clearly doesn't tear you apart anymore.",
+                "lyrics": "Hello, it's me \nI was wondering if after all these years \n" +
+                    "You'd like to meet, to go over everything \nThey say that time's s" +
+                    "upposed to heal ya \nBut I ain't done much healing\n \nHello, can " +
+                    "you hear me? \nI'm in California dreaming about who we used to be " +
+                    "\nWhen we were younger and free \nI've forgotten how it felt befor" +
+                    "e the world fell at our feet \n\nThere's such a difference between" +
+                    " us \nAnd a million miles \n\nHello from the other side \nI must'v" +
+                    "e called a thousand times to tell you \nI'm sorry, for everything " +
+                    "that I've done \nBut when I call you never seem to be home \n\nHel" +
+                    "lo from the outside \nAt least I can say that I've tried to tell y" +
+                    "ou \nI'm sorry, for breaking your heart \nBut it don't matter, it " +
+                    "clearly doesn't tear you apart anymore \n\nHello, how are you? \nI" +
+                    "t's so typical of me to talk about myself \nI'm sorry, I hope that" +
+                    " you're well \nDid you ever make it out of that town \nWhere nothi" +
+                    "ng ever happened? \n\nIt's no secret \nThat the both of us are run" +
+                    "ning out of time \n\nSo hello from the other side \nI must've call" +
+                    "ed a thousand times to tell you \nI'm sorry, for everything that I" +
+                    "'ve done \nBut when I call you never seem to be home \n\nHello fro" +
+                    "m the outside \nAt least I can say that I've tried to tell you \nI" +
+                    "'m sorry, for breaking your heart \nBut it don't matter, it clearl" +
+                    "y doesn't tear you apart anymore \n\nOoooohh, anymore \nOoooohh, a" +
+                    "nymore \nOoooohh, anymore \nAnymore \n\nHello from the other side " +
+                    "\nI must've called a thousand times to tell you \nI'm sorry, for e" +
+                    "verything that I've done \nBut when I call you never seem to be ho" +
+                    "me \n\nHello from the outside \nAt least I can say that I've tried" +
+                    " to tell you \nI'm sorry, for breaking your heart \nBut it don't m" +
+                    "atter, it clearly doesn't tear you apart anymore.",
                 "difficulty": 3
             },
             {
                 "name": "Someone like you",
                 "duration": 285,
-                "lyrics": "I heard that your settled down \nThat you found a girl and you're married now \nI heard that your dreams came true \nGuess she gave you things I didn't give to you \n\nOld friend, why are you so shy? \nIt ain't like you to hold back \nOr hide from the lie \n\nI hate to turn up out of the blue uninvitedBut I couldn't stay away, I couldn't fight it \nI hoped you'd see my face and that you'd be reminded \nThat for me, it isn't over \n\nNevermind, I'll find someone like you \nI wish nothing but the best for you two \nDon't forget me, I beg \nI remember you said: \n“Sometimes it lasts in love but sometimes it hurts instead” \n\"Sometimes it lasts in love but sometimes it hurts instead\" \n\nYou'd know how the time flies \nOnly yesterday was the time of our lives \nWe were born and raised in a summery haze \nBound by the surprise of our glory days \n\nI hate to turn up out of the blue uninvited \nBut I couldn't stay away, I couldn't fight it \nI hoped you'd see my face and that you'd be reminded \nThat for me, it isn't over yet \n\nNevermind, I'll find someone like you \nI wish nothing but the best for you too \nDon't forget me, I beg \nI remember you said: \n“Sometimes it lasts in love but sometimes it hurts instead” \n\nNothing compares, no worries or cares \nRegrets and mistakes they're memories made \nWho would have known how bittersweet this would taste? \n\nNevermind, I'll find someone like you \nI wish nothing but the best for you \nDon't forget me, I beg \nI remembered you said: \n“Sometimes it lasts in love but sometimes it hurts instead” \n\nNevermind, I'll find someone like you \nI wish nothing but the best for you \nDon't forget me, I beg  \nI remembered you said: \n“Sometimes it lasts in love but sometimes it hurts instead” \n\"Sometimes it lasts in love but sometimes it hurts instead\"",
+                "lyrics": "I heard that your settled down \nThat you found a girl and y" +
+                    "ou're married now \nI heard that your dreams came true \nGuess she" +
+                    " gave you things I didn't give to you \n\nOld friend, why are you " +
+                    "so shy? \nIt ain't like you to hold back \nOr hide from the lie \n" +
+                    "\nI hate to turn up out of the blue uninvitedBut I couldn't stay a" +
+                    "way, I couldn't fight it \nI hoped you'd see my face and that you'" +
+                    "d be reminded \nThat for me, it isn't over \n\nNevermind, I'll fin" +
+                    "d someone like you \nI wish nothing but the best for you two \nDon" +
+                    "'t forget me, I beg \nI remember you said: \n“Sometimes it lasts i" +
+                    "n love but sometimes it hurts instead” \n\"Sometimes it lasts in l" +
+                    "ove but sometimes it hurts instead\" \n\nYou'd know how the time f" +
+                    "lies \nOnly yesterday was the time of our lives \nWe were born and" +
+                    " raised in a summery haze \nBound by the surprise of our glory day" +
+                    "s \n\nI hate to turn up out of the blue uninvited \nBut I couldn't" +
+                    " stay away, I couldn't fight it \nI hoped you'd see my face and th" +
+                    "at you'd be reminded \nThat for me, it isn't over yet \n\nNevermin" +
+                    "d, I'll find someone like you \nI wish nothing but the best for yo" +
+                    "u too \nDon't forget me, I beg \nI remember you said: \n“Sometimes" +
+                    " it lasts in love but sometimes it hurts instead” \n\nNothing comp" +
+                    "ares, no worries or cares \nRegrets and mistakes they're memories " +
+                    "made \nWho would have known how bittersweet this would taste? \n\n" +
+                    "Nevermind, I'll find someone like you \nI wish nothing but the bes" +
+                    "t for you \nDon't forget me, I beg \nI remembered you said: \n“Som" +
+                    "etimes it lasts in love but sometimes it hurts instead” \n\nNeverm" +
+                    "ind, I'll find someone like you \nI wish nothing but the best for " +
+                    "you \nDon't forget me, I beg  \nI remembered you said: \n“Sometime" +
+                    "s it lasts in love but sometimes it hurts instead” \n\"Sometimes i" +
+                    "t lasts in love but sometimes it hurts instead\"",
                 "difficulty": 4
             },
             {
                 "name": "Set fire to the rain",
                 "duration": 204,
-                "lyrics": "I let it fall, my heart \nAnd as it fell, you rose to claim it \nIt was dark and I was over \nUntil you kissed my lips and you saved me \n  \nMy hands they were strong \nBut my knees were far too weak \nTo stand in your arms \n Without falling to your feet \n  \nBut there's a side, to you, that I never knew, never knew \nAll the things you'd said, they were never true, never true \nAnd the games you'd played, you would always win, always win \n  \nBut I set fire to the rain \nWatched it pour as I touched your face \nWell, it burned while I cried \n'Cause I heard it screaming out your name, your name! \n \nWhen I lay, with you \nI could stay there, close my eyes \nFeel you here forever \nYou and me together, nothing gets better! \n \n'Cause there's a side, to you, that I never knew, never knew \nAll the things you'd said, they were never true, never true \nAnd the games you'd played, you would always win, always win \n \nBut I set fire to the rain \nWatched it pour as I touched your face \nWell, it burned while I cried \n'Cause I heard it screaming out your name, your name! \n  \nI set fire to the rain \nAnd I threw us into the flames \nWell, it felt something died \n'Cause I knew that that was the last time, the last time! \n  \nSometimes I wake up by the door \nThat heart you caught must be waiting for ya \nEven now when we're already over \nI can't help myself from looking for ya \n  \nI set fire to the rain \nWatched it pour as I touched your face \nWell, it burned while I cried \n'Cause I heard it screaming out your name, your name! \n  \nI set fire to the rain \nAnd I threw us into the flames \nWell, it felt something died \n'Cause I knew than that was the last time, the last time! \n  \nOh, oh, oh, oh, oh \n  \nLet it burn",
+                "lyrics": "I let it fall, my heart \nAnd as it fell, you rose to claim " +
+                    "it \nIt was dark and I was over \nUntil you kissed my lips and you" +
+                    " saved me \n  \nMy hands they were strong \nBut my knees were far " +
+                    "too weak \nTo stand in your arms \n Without falling to your feet \n" +
+                    "  \nBut there's a side, to you, that I never knew, never knew \nAl" +
+                    "l the things you'd said, they were never true, never true \nAnd th" +
+                    "e games you'd played, you would always win, always win \n  \nBut I" +
+                    " set fire to the rain \nWatched it pour as I touched your face \nW" +
+                    "ell, it burned while I cried \n'Cause I heard it screaming out you" +
+                    "r name, your name! \n \nWhen I lay, with you \nI could stay there," +
+                    " close my eyes \nFeel you here forever \nYou and me together, noth" +
+                    "ing gets better! \n \n'Cause there's a side, to you, that I never " +
+                    "knew, never knew \nAll the things you'd said, they were never true" +
+                    ", never true \nAnd the games you'd played, you would always win, a" +
+                    "lways win \n \nBut I set fire to the rain \nWatched it pour as I t" +
+                    "ouched your face \nWell, it burned while I cried \n'Cause I heard " +
+                    "it screaming out your name, your name! \n  \nI set fire to the rai" +
+                    "n \nAnd I threw us into the flames \nWell, it felt something died " +
+                    "\n'Cause I knew that that was the last time, the last time! \n  \n" +
+                    "Sometimes I wake up by the door \nThat heart you caught must be wa" +
+                    "iting for ya \nEven now when we're already over \nI can't help mys" +
+                    "elf from looking for ya \n  \nI set fire to the rain \nWatched it " +
+                    "pour as I touched your face \nWell, it burned while I cried \n'Cau" +
+                    "se I heard it screaming out your name, your name! \n  \nI set fire" +
+                    " to the rain \nAnd I threw us into the flames \nWell, it felt some" +
+                    "thing died \n'Cause I knew than that was the last time, the last t" +
+                    "ime! \n  \nOh, oh, oh, oh, oh \n  \nLet it burn",
                 "difficulty": 4
             }
         ]
@@ -28,7 +107,35 @@ const artists = [
             {
                 "name": "Work",
                 "duration": 219,
-                "lyrics": "Work, work, work, work, work, work \nYou see me I be \nWork, work, work, work, work, work! \nYou see me do me \nDirt, dirt, dirt, dirt, dirt, dirt! \nFor some of that \nWork, work, work, work, work, work \nFor you I got \nLove, love, love, love, love, love \nWhen I came for my \nTurn, turn, turn, turn, turn \n \nJoin me I deserved it \nNo time to have you lurking \nIf I got right then you might like it \nYou know I dealt with you the nicest \nNobody touch me I'm the righteous \nNobody text me in a crisis \nI believed all your dreams are fruition \nYou took my heart and my keys and my vision \nYou took my heart off my sleeve a decoration \nYou mistaken my love I brought for you into foundation \nAll I want is for you to give me something that I've never had \nSomething that you've never seen \nSomething that you've never been \nBut I wake up and not everything's wrong \nJust get up and work, work, work ... \n \nWork work work work \nWork work \nYou see me I be \nWork work work work \nWork work \nYou see me \nDo me dirt, dirt,dirt \nDirt, dirt, dirt \n\nWork work work \nwork, work work \nDuh, duh, duh, duh \nThe way you uh, uh, uh, uh \nBefore the tables turned, turned turned turned \n\nBaby something please \nBaby don't you leave \nDon't leave me stuck here in the streets \n(no, no) \nIf I get another chance to \nI will never, no never neglect you \nI mean who am I to hold your past against you \nI just hope that it gets to you \nI hope that you see this through \nI hope that you see this true \nWhat can I say? \nPlease recognize I'm trying baby \n(I been…) \n\nWork work work \nwork, work work \nYou see me I be \nWork work work \nwork work work \nYou see me \ndo me dirt, dirt, dirt, dirt \ndirt, dirt, dirt \nWork work work \nwork work work \nDuh, duh, duh, duh \nThe way you uh, uh, uh, uh \nWaiting for my turn, turn, turn",
+                "lyrics": "Work, work, work, work, work, work \nYou see me I be \nWork," +
+                    " work, work, work, work, work! \nYou see me do me \nDirt, dirt, di" +
+                    "rt, dirt, dirt, dirt! \nFor some of that \nWork, work, work, work," +
+                    " work, work \nFor you I got \nLove, love, love, love, love, love \n" +
+                    "When I came for my \nTurn, turn, turn, turn, turn \n \nJoin me I d" +
+                    "eserved it \nNo time to have you lurking \nIf I got right then you" +
+                    " might like it \nYou know I dealt with you the nicest \nNobody tou" +
+                    "ch me I'm the righteous \nNobody text me in a crisis \nI believed " +
+                    "all your dreams are fruition \nYou took my heart and my keys and m" +
+                    "y vision \nYou took my heart off my sleeve a decoration \nYou mist" +
+                    "aken my love I brought for you into foundation \nAll I want is for" +
+                    " you to give me something that I've never had \nSomething that you" +
+                    "'ve never seen \nSomething that you've never been \nBut I wake up " +
+                    "and not everything's wrong \nJust get up and work, work, work ... " +
+                    "\n \nWork work work work \nWork work \nYou see me I be \nWork work" +
+                    " work work \nWork work \nYou see me \nDo me dirt, dirt,dirt \nDirt" +
+                    ", dirt, dirt \n\nWork work work \nwork, work work \nDuh, duh, duh," +
+                    " duh \nThe way you uh, uh, uh, uh \nBefore the tables turned, turn" +
+                    "ed turned turned \n\nBaby something please \nBaby don't you leave " +
+                    "\nDon't leave me stuck here in the streets \n(no, no) \nIf I get a" +
+                    "nother chance to \nI will never, no never neglect you \nI mean who" +
+                    " am I to hold your past against you \nI just hope that it gets to " +
+                    "you \nI hope that you see this through \nI hope that you see this " +
+                    "true \nWhat can I say? \nPlease recognize I'm trying baby \n(I bee" +
+                    "n…) \n\nWork work work \nwork, work work \nYou see me I be \nWork " +
+                    "work work \nwork work work \nYou see me \ndo me dirt, dirt, dirt, " +
+                    "dirt \ndirt, dirt, dirt \nWork work work \nwork work work \nDuh, d" +
+                    "uh, duh, duh \nThe way you uh, uh, uh, uh \nWaiting for my turn, t" +
+                    "urn, turn",
                 "difficulty": 7
             },
             {
