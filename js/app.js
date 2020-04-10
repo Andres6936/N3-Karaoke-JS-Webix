@@ -1,4 +1,5 @@
 import {panelListTrack} from "./view/panelListTrack.js";
+import {panelOptionsTracks} from "./view/panelOptionsTracks.js";
 
 let appLayout = {
     width: 800,
@@ -76,14 +77,7 @@ let appLayout = {
             ]
         },
         // Four Row
-        {
-            cols: [
-                {view: "button", value: "Search Track"},
-                {view: "button", value: "List of Tracks"},
-                {view: "button", value: "Add Track"},
-                {view: "button", value: "Delete Track"},
-            ]
-        },
+        panelOptionsTracks
     ]
 };
 
