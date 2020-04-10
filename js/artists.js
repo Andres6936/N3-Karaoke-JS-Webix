@@ -305,31 +305,115 @@ const artists = [
             {
                 "name": "American Idiot",
                 "duration": 161,
-                "lyrics": "Don't want to be an American idiot.\nDon't want a nation under the new media\nAnd can you hear the sound of hysteria?\nThe subliminal mind fuck America.\n\nWelcome to a new kind of tension.\nAll across the alien nation.\nWhere everything isn't meant to be okay.\nTelevision dreams of tomorrow.\nWe're not the ones who're meant to follow.\nFor that's enough to argue.\n\nWell maybe I'm the faggot America.\nI'm not a part of a redneck agenda.\nNow everybody do the propaganda.\nAnd sing along to the age of paranoia.\n\nWelcome to a new kind of tension.\nAll across the alien nation.\nWhere everything isn't meant to be okay.\nTelevision dreams of tomorrow.\nWe're not the ones who're meant to follow.\nFor that's enough to argue.\n\nDon't want to be an American idiot.\nOne nation controlled by the media.\nInformation age of hysteria.\nIt's calling out to idiot America.\n\nWelcome to a new kind of tension.\nAll across the alien nation.\nWhere everything isn't meant to be okay.\nTelevision dreams of tomorrow.\nWe're not the ones who're meant to follow.\nFor that's enough to argue.",
+                "lyrics": "Don't want to be an American idiot.\nDon't want a nation und" +
+                    "er the new media\nAnd can you hear the sound of hysteria?\nThe sub" +
+                    "liminal mind fuck America.\n\nWelcome to a new kind of tension.\nA" +
+                    "ll across the alien nation.\nWhere everything isn't meant to be ok" +
+                    "ay.\nTelevision dreams of tomorrow.\nWe're not the ones who're mea" +
+                    "nt to follow.\nFor that's enough to argue.\n\nWell maybe I'm the f" +
+                    "aggot America.\nI'm not a part of a redneck agenda.\nNow everybody" +
+                    " do the propaganda.\nAnd sing along to the age of paranoia.\n\nWel" +
+                    "come to a new kind of tension.\nAll across the alien nation.\nWher" +
+                    "e everything isn't meant to be okay.\nTelevision dreams of tomorro" +
+                    "w.\nWe're not the ones who're meant to follow.\nFor that's enough " +
+                    "to argue.\n\nDon't want to be an American idiot.\nOne nation contr" +
+                    "olled by the media.\nInformation age of hysteria.\nIt's calling ou" +
+                    "t to idiot America.\n\nWelcome to a new kind of tension.\nAll acro" +
+                    "ss the alien nation.\nWhere everything isn't meant to be okay.\nTe" +
+                    "levision dreams of tomorrow.\nWe're not the ones who're meant to f" +
+                    "ollow.\nFor that's enough to argue.",
                 "difficulty": 7
             },
             {
                 "name": "Basketcase",
                 "duration": 180,
-                "lyrics": "Do you have the time\nTo listen to me whine\nAbout nothing and everything\nAll at once\nI am one of those\nMelodramatic fools\nNeurotic to the bone\nNo doubt about it\n\nSometimes I give myself the creeps\nSometimes my mind plays tricks on me\nIt all keeps adding up\nI think I'm cracking up\nAm I just paranoid?\nAm I just stoned?\n\nI went to a shrink\nTo analyze my dreams\nShe says it's lack of sex\nThat's bringing me down\nI went to a whore\nHe said my life's a bore\nSo quit my whining cause\nIt's bringing her down\n\nSometimes I give myself the creeps\nSometimes my mind plays tricks on me\nIt all keeps adding up\nI think I'm cracking up\nAm I just paranoid?\nUh, yuh, yuh, ya\n\nGrasping to control\nSo I better hold on\n\nSometimes I give myself the creeps\nSometimes my mind plays tricks on me\nIt all keeps adding up\nI think I'm cracking up\nAm I just paranoid?\nAm I just stoned?",
+                "lyrics": "Do you have the time\nTo listen to me whine\nAbout nothing a" +
+                    "nd everything\nAll at once\nI am one of those\nMelodramatic fools\n" +
+                    "Neurotic to the bone\nNo doubt about it\n\nSometimes I give myself" +
+                    " the creeps\nSometimes my mind plays tricks on me\nIt all keeps ad" +
+                    "ding up\nI think I'm cracking up\nAm I just paranoid?\nAm I just s" +
+                    "toned?\n\nI went to a shrink\nTo analyze my dreams\nShe says it's " +
+                    "lack of sex\nThat's bringing me down\nI went to a whore\nHe said m" +
+                    "y life's a bore\nSo quit my whining cause\nIt's bringing her down\n" +
+                    "\nSometimes I give myself the creeps\nSometimes my mind plays tric" +
+                    "ks on me\nIt all keeps adding up\nI think I'm cracking up\nAm I ju" +
+                    "st paranoid?\nUh, yuh, yuh, ya\n\nGrasping to control\nSo I better" +
+                    " hold on\n\nSometimes I give myself the creeps\nSometimes my mind " +
+                    "plays tricks on me\nIt all keeps adding up\nI think I'm cracking u" +
+                    "p\nAm I just paranoid?\nAm I just stoned?",
                 "difficulty": 6
             },
             {
                 "name": "Boulevard of broken dreams",
                 "duration": 280,
-                "lyrics": "I walk a lonely road\nThe only one that I have ever known\nDon't know where it goes\nBut it's home to me and I walk alone\n\nI walk this empty street\nOn the Boulevard of Broken Dreams\nWhere the city sleeps\nand I'm the only one and I walk alone\n\nI walk alone\nI walk alone\n\nI walk alone\nI walk a...\n\nMy shadow's the only one that walks beside me\nMy shallow heart's the only thing that's beating\nSometimes I wish someone out there will find me\n'Til then I walk alone\n\nAh-ah, Ah-ah, Ah-ah, Aaah-ah,\nAh-ah, Ah-ah, Ah-ah\n\nI'm walking down the line\nThat divides me somewhere in my mind\nOn the border line\nOf the edge and where I walk alone\n\nRead between the lines\nWhat's fucked up and everything's alright\nCheck my vital signs\nTo know I'm still alive and I walk alone\n\nI walk alone\nI walk alone\n\nI walk alone\nI walk a...\n\nMy shadow's the only one that walks beside me\nMy shallow heart's the only thing that's beating\nSometimes I wish someone out there will find me\n'Til then I walk alone\n\nAh-ah, Ah-ah, Ah-ah, Aaah-ah\nAh-ah, Ah-ah\n\nI walk alone\nI walk a...\n\nI walk this empty street\nOn the Boulevard of Broken Dreams\nWhere the city sleeps\nAnd I'm the only one and I walk a...\n\nMy shadow's the only one that walks beside me\nMy shallow heart's the only thing that's beating\nSometimes I wish someone out there will find me\n'Til then I walk alone...",
+                "lyrics": "I walk a lonely road\nThe only one that I have ever known\nD" +
+                    "on't know where it goes\nBut it's home to me and I walk alone\n\nI" +
+                    " walk this empty street\nOn the Boulevard of Broken Dreams\nWhere " +
+                    "the city sleeps\nand I'm the only one and I walk alone\n\nI walk a" +
+                    "lone\nI walk alone\n\nI walk alone\nI walk a...\n\nMy shadow's the" +
+                    " only one that walks beside me\nMy shallow heart's the only thing " +
+                    "that's beating\nSometimes I wish someone out there will find me\n'" +
+                    "Til then I walk alone\n\nAh-ah, Ah-ah, Ah-ah, Aaah-ah,\nAh-ah, Ah-" +
+                    "ah, Ah-ah\n\nI'm walking down the line\nThat divides me somewhere " +
+                    "in my mind\nOn the border line\nOf the edge and where I walk alone" +
+                    "\n\nRead between the lines\nWhat's fucked up and everything's alri" +
+                    "ght\nCheck my vital signs\nTo know I'm still alive and I walk alon" +
+                    "e\n\nI walk alone\nI walk alone\n\nI walk alone\nI walk a...\n\nMy" +
+                    " shadow's the only one that walks beside me\nMy shallow heart's th" +
+                    "e only thing that's beating\nSometimes I wish someone out there wi" +
+                    "ll find me\n'Til then I walk alone\n\nAh-ah, Ah-ah, Ah-ah, Aaah-ah" +
+                    "\nAh-ah, Ah-ah\n\nI walk alone\nI walk a...\n\nI walk this empty s" +
+                    "treet\nOn the Boulevard of Broken Dreams\nWhere the city sleeps\nA" +
+                    "nd I'm the only one and I walk a...\n\nMy shadow's the only one th" +
+                    "at walks beside me\nMy shallow heart's the only thing that's beati" +
+                    "ng\nSometimes I wish someone out there will find me\n'Til then I w" +
+                    "alk alone...",
                 "difficulty": 4
             },
             {
                 "name": "Holiday",
                 "duration": 221,
-                "lyrics": "Say, hey!\n\nHear the sound of the falling rain\nComing down like an Armageddon flame (Hey!)\nThe shame\nThe ones who died without a name\n\nHear the dogs howling out of key\nTo a hymn called \"Faith and Misery\" (Hey!)\nAnd bleed, the company lost the war today\n\nI beg to dream and differ from the hollow lies\nThis is the dawning of the rest of our lives\nOn holiday\n\nHear the drum pounding out of time\nAnother protester has crossed the line (Hey!)\nTo find, the money's on the other side\n\nCan I get another Amen? (Amen!)\nThere's a flag wrapped around a score of men (Hey!)\nA gag, a plastic bag on a monument\n\nI beg to dream and differ from the hollow lies\nThis is the dawning of the rest of our lives\nOn holiday\n\n(Hey!)\n(Say, hey!)\n\n(3,4)\n\n\"The representative from California has the floor\"\n\nSieg Heil to the president Gasman\nBombs away is your punishment\nPulverize the Eiffel towers\nWho criticize your government\nBang bang goes the broken glass and\nKill all the fags that don't agree\nTrials by fire, setting fire\nIs not a way that's meant for me\nJust cause, just cause, because we're outlaws yeah!\n\nI beg to dream and differ from the hollow lies\nThis is the dawning of the rest of our lives\nI beg to dream and differ from the hollow lies\nThis is the dawning of the rest of our lives\n\nThis is our lives on holiday",
+                "lyrics": "Say, hey!\n\nHear the sound of the falling rain\nComing down" +
+                    " like an Armageddon flame (Hey!)\nThe shame\nThe ones who died wit" +
+                    "hout a name\n\nHear the dogs howling out of key\nTo a hymn called " +
+                    "\"Faith and Misery\" (Hey!)\nAnd bleed, the company lost the war t" +
+                    "oday\n\nI beg to dream and differ from the hollow lies\nThis is th" +
+                    "e dawning of the rest of our lives\nOn holiday\n\nHear the drum po" +
+                    "unding out of time\nAnother protester has crossed the line (Hey!)\n" +
+                    "To find, the money's on the other side\n\nCan I get another Amen? " +
+                    "(Amen!)\nThere's a flag wrapped around a score of men (Hey!)\nA ga" +
+                    "g, a plastic bag on a monument\n\nI beg to dream and differ from t" +
+                    "he hollow lies\nThis is the dawning of the rest of our lives\nOn h" +
+                    "oliday\n\n(Hey!)\n(Say, hey!)\n\n(3,4)\n\n\"The representative fro" +
+                    "m California has the floor\"\n\nSieg Heil to the president Gasman\n" +
+                    "Bombs away is your punishment\nPulverize the Eiffel towers\nWho cr" +
+                    "iticize your government\nBang bang goes the broken glass and\nKill" +
+                    " all the fags that don't agree\nTrials by fire, setting fire\nIs n" +
+                    "ot a way that's meant for me\nJust cause, just cause, because we'r" +
+                    "e outlaws yeah!\n\nI beg to dream and differ from the hollow lies\n" +
+                    "This is the dawning of the rest of our lives\nI beg to dream and d" +
+                    "iffer from the hollow lies\nThis is the dawning of the rest of our" +
+                    " lives\n\nThis is our lives on holiday",
                 "difficulty": 5
             },
             {
                 "name": "Wake me up when september ends",
                 "duration": 259,
-                "lyrics": "Summer has come and passed\nThe innocent can never last\nwake me up when September ends\n\nlike my father's come to pass\nseven years has gone so fast\nwake me up when September ends\n\nhere comes the rain again\nfalling from the stars\ndrenched in my pain again\nbecoming who we are\n\nas my memory rests\nbut never forgets what I lost\nwake me up when September ends\n\nsummer has come and passed\nthe innocent can never last\nwake me up when September ends\n\nring out the bells again\nlike we did when spring began\nwake me up when September ends\n\nhere comes the rain again\nfalling from the stars\ndrenched in my pain again\nbecoming who we are\n\nas my memory rests\nbut never forgets what I lost\nwake me up when September ends\n\nSummer has come and passed\nThe innocent can never last\nwake me up when September ends\n\nlike my father's come to pass\ntwenty years has gone so fast\nwake me up when September ends\nwake me up when September ends\nwake me up when September ends",
+                "lyrics": "Summer has come and passed\nThe innocent can never last\nwak" +
+                    "e me up when September ends\n\nlike my father's come to pass\nseve" +
+                    "n years has gone so fast\nwake me up when September ends\n\nhere c" +
+                    "omes the rain again\nfalling from the stars\ndrenched in my pain a" +
+                    "gain\nbecoming who we are\n\nas my memory rests\nbut never forgets" +
+                    " what I lost\nwake me up when September ends\n\nsummer has come an" +
+                    "d passed\nthe innocent can never last\nwake me up when September e" +
+                    "nds\n\nring out the bells again\nlike we did when spring began\nwa" +
+                    "ke me up when September ends\n\nhere comes the rain again\nfalling" +
+                    " from the stars\ndrenched in my pain again\nbecoming who we are\n" +
+                    "\nas my memory rests\nbut never forgets what I lost\nwake me up wh" +
+                    "en September ends\n\nSummer has come and passed\nThe innocent can " +
+                    "never last\nwake me up when September ends\n\nlike my father's com" +
+                    "e to pass\ntwenty years has gone so fast\nwake me up when Septembe" +
+                    "r ends\nwake me up when September ends\nwake me up when September ends",
                 "difficulty": 3
             }
         ]
@@ -340,13 +424,41 @@ const artists = [
             {
                 "name": "Highway to hell",
                 "duration": 220,
-                "lyrics": "Living easy, living free \nSeason ticket on a one-way ride \nAsking nothing, leave me be \nTaking everything in my stride \nDon't need reason, don't need rhyme\nAin't nothing \nI would rather do\n Going down, party time\nMy friends are going to be there too\nI'm on the highway to hell\nHighway to hell\n\n(x2)\nNo stop signs, speed limit \nNobody's going to slow me down \nLike a wheel, going to spin it \nNobody's going to mess me around \nHey Satan, payed my dues \nPlaying in a rocking band \nHey Momma, just look at me \nI'm on my way to the promised land\nI'm on the highway to hell \nHighway to hell\n\n(x2)\nDon't stop me\nI'm on the highway to hell \nOn the highway to hell\n\n(x6)\n\nAnd I'm going down, all the way down\nI'm on the highway to hell\n",
+                "lyrics": "Living easy, living free \nSeason ticket on a one-way ride \n" +
+                    "Asking nothing, leave me be \nTaking everything in my stride \nDon" +
+                    "'t need reason, don't need rhyme\nAin't nothing \nI would rather d" +
+                    "o\n Going down, party time\nMy friends are going to be there too\n" +
+                    "I'm on the highway to hell\nHighway to hell\n\n(x2)\nNo stop signs" +
+                    ", speed limit \nNobody's going to slow me down \nLike a wheel, goi" +
+                    "ng to spin it \nNobody's going to mess me around \nHey Satan, paye" +
+                    "d my dues \nPlaying in a rocking band \nHey Momma, just look at me" +
+                    " \nI'm on my way to the promised land\nI'm on the highway to hell " +
+                    "\nHighway to hell\n\n(x2)\nDon't stop me\nI'm on the highway to he" +
+                    "ll \nOn the highway to hell\n\n(x6)\n\nAnd I'm going down, all the" +
+                    " way down\nI'm on the highway to hell\n",
                 "difficulty": 7
             },
             {
                 "name": "Back in black",
                 "duration": 220,
-                "lyrics": "Back in black\nI hit the sack\nI've been too long I'm glad to be back\nYes I'm, let loose\nFrom the noose\nThat's kept me hanging about\nI keep looking at the sky\n'Cause it's gettin' me high\nForget the herse 'cause I'll never die\nI got nine lives\nCat's eyes\nUsin' every one of them and running wild\n\n'Cause I'm back\nYes, I'm back\nWell, I'm back\nYes, I'm back\nWell, I'm back, back\n(Well) I'm back in black\nYes, I'm back in black\n\nBack in the back\nOf a Cadillac\nNumber one with a bullet, I'm a power pack\nYes, I'm in a bang\nWith a gang\nThey've got to catch me if they want me to hang\nCause I'm back on the track\nAnd I'm leadin' the pack\nNobody's gonna get me on another rap\nSo look at me now\nI'm just makin' my play\nDon't try to push your luck, just get out of my way\n\nWell, I'm back, Yes I'm back\nWell, I'm back, Yes I'm back\nWell, I'm back, back\nWell I'm back in black\nYes I'm back in black\n\nhooo yeah\nOhh yeah\nYes I am\nOooh yeah, yeah Oh yeah\nBack in now\nWell I'm back, I'm back\nBack, I'm back\nBack, I'm back\nBack, I'm back\nBack, I'm back\nBack\nBack in black\nYes I'm back in black\n",
+                "lyrics": "Back in black\nI hit the sack\nI've been too long I'm glad t" +
+                    "o be back\nYes I'm, let loose\nFrom the noose\nThat's kept me hang" +
+                    "ing about\nI keep looking at the sky\n'Cause it's gettin' me high\n" +
+                    "Forget the herse 'cause I'll never die\nI got nine lives\nCat's ey" +
+                    "es\nUsin' every one of them and running wild\n\n'Cause I'm back\nY" +
+                    "es, I'm back\nWell, I'm back\nYes, I'm back\nWell, I'm back, back\n" +
+                    "(Well) I'm back in black\nYes, I'm back in black\n\nBack in the ba" +
+                    "ck\nOf a Cadillac\nNumber one with a bullet, I'm a power pack\nYes" +
+                    ", I'm in a bang\nWith a gang\nThey've got to catch me if they want" +
+                    " me to hang\nCause I'm back on the track\nAnd I'm leadin' the pack" +
+                    "\nNobody's gonna get me on another rap\nSo look at me now\nI'm jus" +
+                    "t makin' my play\nDon't try to push your luck, just get out of my " +
+                    "way\n\nWell, I'm back, Yes I'm back\nWell, I'm back, Yes I'm back\n" +
+                    "Well, I'm back, back\nWell I'm back in black\nYes I'm back in blac" +
+                    "k\n\nhooo yeah\nOhh yeah\nYes I am\nOooh yeah, yeah Oh yeah\nBack " +
+                    "in now\nWell I'm back, I'm back\nBack, I'm back\nBack, I'm back\nB" +
+                    "ack, I'm back\nBack, I'm back\nBack\nBack in black\nYes I'm back i" +
+                    "n black\n",
                 "difficulty": 7
             }
         ]
@@ -357,13 +469,45 @@ const artists = [
             {
                 "name": "I need your love",
                 "duration": 106,
-                "lyrics": "I need your love\nI need your time \nWhen everything's wrong\nYou make it right \nI feel so high \nI come alive \nI need to be free with you tonight \nI need your love \n\n[Beat break]\n \nI need your love \n\nI take a deep breath everytime I pass your door \nI know you're there but I can't see you anymore \nAnd that's the reason you're in the dark \nI've been a stranger ever since we fell apart\nI feel so out of see \nWatch my eyes are filled with fear \nTell me do you feel the same \nHold me in your arms again \n\nI need your love \nI need your time \nWhen everything's wrong \nYou make it right \nI feel so high \nI come alive \nI need to be free with you tonight \nI need your love \n\n[Beat break] \n\nI need your love \n\nNow I'm dreaming, will ever find you now? \nI walk in circles but I'll never figure out \nWhat I mean to you, do I belong \nI try to fight this but I know I'm not that strong \nAnd I feel so helplessly \nWatch my eyes are filled with fear \nTell me do you feel the same \nHold me in your arms again \n\nI need your love \nI need your time \nWhen everything's wrong \nYou make it right \nI feel so high \nI come alive \nI need to be free with you tonight \nI need your love \n\n[Beat break] \n\nI need your love \n\nAll the years \nAll the times \nYou were never been to blame \nAnd now my eyes are perfect \nAnd now my heart is closing \nAnd all the tears \nAll the lies \nAll the waste \nI've been trying to make it change \nAnd now my eyes are perfect \n\nI need your love \nI need your time \nWhen everything's wrong \nYou make it right \nI feel so high \nI come alive \nI need to be free",
+                "lyrics": "I need your love\nI need your time \nWhen everything's wrong" +
+                    "\nYou make it right \nI feel so high \nI come alive \nI need to be" +
+                    " free with you tonight \nI need your love \n\n[Beat break]\n \nI n" +
+                    "eed your love \n\nI take a deep breath everytime I pass your door " +
+                    "\nI know you're there but I can't see you anymore \nAnd that's the" +
+                    " reason you're in the dark \nI've been a stranger ever since we fe" +
+                    "ll apart\nI feel so out of see \nWatch my eyes are filled with fea" +
+                    "r \nTell me do you feel the same \nHold me in your arms again \n\n" +
+                    "I need your love \nI need your time \nWhen everything's wrong \nYo" +
+                    "u make it right \nI feel so high \nI come alive \nI need to be fre" +
+                    "e with you tonight \nI need your love \n\n[Beat break] \n\nI need " +
+                    "your love \n\nNow I'm dreaming, will ever find you now? \nI walk i" +
+                    "n circles but I'll never figure out \nWhat I mean to you, do I bel" +
+                    "ong \nI try to fight this but I know I'm not that strong \nAnd I f" +
+                    "eel so helplessly \nWatch my eyes are filled with fear \nTell me d" +
+                    "o you feel the same \nHold me in your arms again \n\nI need your l" +
+                    "ove \nI need your time \nWhen everything's wrong \nYou make it rig" +
+                    "ht \nI feel so high \nI come alive \nI need to be free with you to" +
+                    "night \nI need your love \n\n[Beat break] \n\nI need your love \n\n" +
+                    "All the years \nAll the times \nYou were never been to blame \nAnd" +
+                    " now my eyes are perfect \nAnd now my heart is closing \nAnd all t" +
+                    "he tears \nAll the lies \nAll the waste \nI've been trying to make" +
+                    " it change \nAnd now my eyes are perfect \n\nI need your love \nI " +
+                    "need your time \nWhen everything's wrong \nYou make it right \nI f" +
+                    "eel so high \nI come alive \nI need to be free",
                 "difficulty": 3
             },
             {
                 "name": "Summer",
                 "duration": 191,
-                "lyrics": "When I met you in the summer\nTo my heartbeat sound\nWe fell in love\nAs the leaves turned brown\n\nAnd we could be together baby\nAs long as skies are blue\nYou act so innocent now\nBut you lied so soon\nWhen I met you in the summer\n\nWhen I met you in the summer\nTo my heartbeat sound\nWe fell in love\nAs the leaves turned brown\n\nAnd we could be together baby\nAs long as skies are blue\nYou act so innocent now\nBut you lied so soon\nWhen I met you in the summer, in the summer\n\nWhen I met you in the summer, in the summer\n",
+                "lyrics": "When I met you in the summer\nTo my heartbeat sound\nWe fell" +
+                    " in love\nAs the leaves turned brown\n\nAnd we could be together b" +
+                    "aby\nAs long as skies are blue\nYou act so innocent now\nBut you l" +
+                    "ied so soon\nWhen I met you in the summer\n\nWhen I met you in the" +
+                    " summer\nTo my heartbeat sound\nWe fell in love\nAs the leaves tur" +
+                    "ned brown\n\nAnd we could be together baby\nAs long as skies are b" +
+                    "lue\nYou act so innocent now\nBut you lied so soon\nWhen I met you" +
+                    " in the summer, in the summer\n\nWhen I met you in the summer, in " +
+                    "the summer\n",
                 "difficulty": 3
             }
         ]
@@ -374,19 +518,72 @@ const artists = [
             {
                 "name": "It's my life",
                 "duration": 106,
-                "lyrics": "This ain't a song for the brokenhearted\nNo silent prayer for the faith departed\nAnd I ain't going to be just a face in the crowd\nYou're going to hear my voice when I shout it out loud\n\nIt's my life\nIt's now or never\nI ain't going to live forever\nI just want to live while I'm alive\n\nIt's my life\nMy heart is like an open highway\nLike Frankie said, \"I did it my way\"\nI just want to live while I'm alive\nBecause it's my life\n\nThis is for the ones who stood their ground\nFor Tommy and Gina who never backed down\nTomorrow's getting harder, make no mistake\nLuck ain't even lucky \nGot to make your own breaks\n\nIt's my life\nAnd it's now or never\nI ain't going to live forever\nI just want to live while I'm alive\n\nIt's my life\nMy heart is like an open highway\nLike Frankie said, \"I did it my way\"\nI just want to live while I'm alive\nBecause it's my life\n\nYou better stand tall\nWhen they're calling you out\nDon't bend, don't break\nBaby, don't back down\n\nIt's my life\nIt's now or never\nBecause I ain't going to live forever\nI just want to live while I'm alive\n\nIt's my life\nMy heart is like an open highway\nLike Frankie said, \"I did it my way\"\nI just want to live while I'm alive\n(bis)",
+                "lyrics": "This ain't a song for the brokenhearted\nNo silent prayer fo" +
+                    "r the faith departed\nAnd I ain't going to be just a face in the c" +
+                    "rowd\nYou're going to hear my voice when I shout it out loud\n\nIt" +
+                    "'s my life\nIt's now or never\nI ain't going to live forever\nI ju" +
+                    "st want to live while I'm alive\n\nIt's my life\nMy heart is like " +
+                    "an open highway\nLike Frankie said, \"I did it my way\"\nI just wa" +
+                    "nt to live while I'm alive\nBecause it's my life\n\nThis is for th" +
+                    "e ones who stood their ground\nFor Tommy and Gina who never backed" +
+                    " down\nTomorrow's getting harder, make no mistake\nLuck ain't even" +
+                    " lucky \nGot to make your own breaks\n\nIt's my life\nAnd it's now" +
+                    " or never\nI ain't going to live forever\nI just want to live whil" +
+                    "e I'm alive\n\nIt's my life\nMy heart is like an open highway\nLik" +
+                    "e Frankie said, \"I did it my way\"\nI just want to live while I'm" +
+                    " alive\nBecause it's my life\n\nYou better stand tall\nWhen they'r" +
+                    "e calling you out\nDon't bend, don't break\nBaby, don't back down\n" +
+                    "\nIt's my life\nIt's now or never\nBecause I ain't going to live f" +
+                    "orever\nI just want to live while I'm alive\n\nIt's my life\nMy he" +
+                    "art is like an open highway\nLike Frankie said, \"I did it my way" +
+                    "\"\nI just want to live while I'm alive\n(bis)",
                 "difficulty": 3
             },
             {
                 "name": "Livin' on a prayer",
                 "duration": 191,
-                "lyrics": "Once upon a time \nNot so long ago \n\nTommy used to work on the docks \nUnion's been on strike \nHe's down on his luck...it's tough, so tough \nGina works the diner all day \nWorking for her man, she brings home her pay \nFor love - for love \n\nShe says we've got to hold on to what we've got \n'Cause it doesn't make a difference \nIf we make it or not \nWe've got each other and that's a lot \nFor love - we'll give it a shot \n\nWhooah, we're half way there \nLivin' on a prayer \nTake my hand and we'll make it - I swear \nLivin' on a prayer \n\nTommy's got his six string in hock \nNow he's holding in what he used \nTo make it talk - so tough, it's tough \nGina dreams of running away \nWhen she cries in the night \nTommy whispers baby it's okay, someday \n\nWe've got to hold on to what we've got \n'Cause it doesn't make a difference \nIf we make it or not \nWe've got each other and that's a lot \nFor love - we'll give it a shot \n\nWe've got to hold on ready or not \nYou live for the fight when it's all that you've got \n\n",
+                "lyrics": "Once upon a time \nNot so long ago \n\nTommy used to work on" +
+                    " the docks \nUnion's been on strike \nHe's down on his luck...it's" +
+                    " tough, so tough \nGina works the diner all day \nWorking for her " +
+                    "man, she brings home her pay \nFor love - for love \n\nShe says we" +
+                    "'ve got to hold on to what we've got \n'Cause it doesn't make a di" +
+                    "fference \nIf we make it or not \nWe've got each other and that's " +
+                    "a lot \nFor love - we'll give it a shot \n\nWhooah, we're half way" +
+                    " there \nLivin' on a prayer \nTake my hand and we'll make it - I s" +
+                    "wear \nLivin' on a prayer \n\nTommy's got his six string in hock \n" +
+                    "Now he's holding in what he used \nTo make it talk - so tough, it'" +
+                    "s tough \nGina dreams of running away \nWhen she cries in the nigh" +
+                    "t \nTommy whispers baby it's okay, someday \n\nWe've got to hold o" +
+                    "n to what we've got \n'Cause it doesn't make a difference \nIf we " +
+                    "make it or not \nWe've got each other and that's a lot \nFor love " +
+                    "- we'll give it a shot \n\nWe've got to hold on ready or not \nYou" +
+                    " live for the fight when it's all that you've got \n\n",
                 "difficulty": 3
             },
             {
                 "name": "You give love a bad name",
                 "duration": 191,
-                "lyrics": "Shot through the heart, and your to blame, darling \nYou give love a bad name \n\nAn angel's smile is what you sell \nYou promise me heaven then put me through hell \nChains of love, got a hold on me \nWhen passion's a prison you can't break free \n\nYou're a loaded gun ... yeah \nThere's nowhere to run \nNo-one can save me, the damage is done \n\nShot through the heart, and your to blame \nYou give love a bad name \nI play my part and you play your game \nYou give love a bad name \nYou give love a bad name \n\nYou paint your smile on your lips \nBlood red nails on your fingertips \nA school boys dream, you act so shy \nYour very first kiss was your first kiss goodbye \n\nYou're a loaded gun \nThere's nowhere to run \nNo-one can save me, the damage is done \n\nShot through the heart, and your to blame \nYou give love a bad name \nI play my part and you play your game \nYou give love a bad name \nYou give love..... \n\nShot through the heart and your to blame \nYou give love a bad name \nI play my part and you play your game \nYou give love a bad name \n\nShot through the heart and your to blame \nYou give love a bad name \nI play my part and you play your game \nYou give love a bad name \n\nYou give love.... \nYou give love a bad name \nYou give love.... \nYou give love a bad name \nYou give love.... \nYou give love a bad name",
+                "lyrics": "Shot through the heart, and your to blame, darling \nYou giv" +
+                    "e love a bad name \n\nAn angel's smile is what you sell \nYou prom" +
+                    "ise me heaven then put me through hell \nChains of love, got a hol" +
+                    "d on me \nWhen passion's a prison you can't break free \n\nYou're " +
+                    "a loaded gun ... yeah \nThere's nowhere to run \nNo-one can save m" +
+                    "e, the damage is done \n\nShot through the heart, and your to blam" +
+                    "e \nYou give love a bad name \nI play my part and you play your ga" +
+                    "me \nYou give love a bad name \nYou give love a bad name \n\nYou p" +
+                    "aint your smile on your lips \nBlood red nails on your fingertips " +
+                    "\nA school boys dream, you act so shy \nYour very first kiss was y" +
+                    "our first kiss goodbye \n\nYou're a loaded gun \nThere's nowhere t" +
+                    "o run \nNo-one can save me, the damage is done \n\nShot through th" +
+                    "e heart, and your to blame \nYou give love a bad name \nI play my " +
+                    "part and you play your game \nYou give love a bad name \nYou give " +
+                    "love..... \n\nShot through the heart and your to blame \nYou give " +
+                    "love a bad name \nI play my part and you play your game \nYou give" +
+                    " love a bad name \n\nShot through the heart and your to blame \nYo" +
+                    "u give love a bad name \nI play my part and you play your game \nY" +
+                    "ou give love a bad name \n\nYou give love.... \nYou give love a ba" +
+                    "d name \nYou give love.... \nYou give love a bad name \nYou give l" +
+                    "ove.... \nYou give love a bad name",
                 "difficulty": 3
             }
         ]
