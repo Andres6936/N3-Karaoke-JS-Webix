@@ -8,16 +8,17 @@
     <script src="codebase/webix.js" type="text/javascript"></script>
 
     <script src="js/artists.js" type="text/javascript"></script>
-    <script src="js/app.js" type="text/javascript"></script>
 
     <title>Karaoke Webix</title>
 </head>
 <body role="document">
 
-
+<script src="js/app.js" type="module"></script>
 <script type="module">
 
     // Main
+
+    import {appLayout} from "./js/app.js";
 
     webix.ui({
         type: "clean",
