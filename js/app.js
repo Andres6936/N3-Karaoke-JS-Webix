@@ -1,5 +1,6 @@
 import {panelListTrack} from "./view/panelListTrack.js";
 import {panelOptionsTracks} from "./view/panelOptionsTracks.js";
+import {panelOptionsList} from "./view/panelOptionsList.js";
 
 let appLayout = {
     width: 800,
@@ -65,15 +66,7 @@ let appLayout = {
         {
             cols: [
                 panelListTrack,
-                {
-                    rows: [
-                        {view: "button", value: "Add List"},
-                        {
-                            id: "buttonDeleteList", view: "button", value: "Delete List", css: "webix_danger"
-                        },
-                        {view: "button", value: "Update List"},
-                    ]
-                }
+                panelOptionsList
             ]
         },
         // Four Row
