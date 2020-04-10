@@ -43,13 +43,13 @@
 
     panelLyricsEvents.setValue(artists[0].tracks[0].lyrics);
 
-    import {Alert} from './js/view/alert.js'
-
-    let alert = new Alert();
-
     let buttonDeleteList = $$('buttonDeleteList');
     buttonDeleteList.attachEvent("onItemClick", function () {
-        alert.show()
+        webix.confirm("Are you sure in delete list?").then(function () {
+            alert("Good");
+        }).fail(function () {
+            alert("Bad.")
+        })
     });
 
 </script>
