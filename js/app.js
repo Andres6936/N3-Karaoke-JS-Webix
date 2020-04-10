@@ -1,6 +1,7 @@
 import {panelListTrack} from "./view/panelListTrack.js";
 import {panelOptionsTracks} from "./view/panelOptionsTracks.js";
 import {panelOptionsList} from "./view/panelOptionsList.js";
+import {panelProperty} from "./view/panelProperty.js";
 
 let appLayout = {
     width: 800,
@@ -22,19 +23,7 @@ let appLayout = {
                 },
                 {
                     rows: [
-                        {
-                            id: "panelProperty",
-                            view: "property",
-                            borderless: true,
-                            editable: false,
-                            elements: [
-                                {label: "Details", type: "label"},
-                                {label: "Name:", type: "text", id: "name"},
-                                {label: "Track:", type: "text", id: "track"},
-                                {label: "Duration:", type: "text", id: "duration"},
-                                {label: "Difficulty:", type: "text", id: "difficulty"}
-                            ]
-                        },
+                        panelProperty,
                         {
                             id: "panelLyrics",
                             view: "textarea",
