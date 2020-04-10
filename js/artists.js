@@ -166,13 +166,129 @@ const artists = [
             {
                 "name": "De donde vengo yo",
                 "duration": 106,
-                "lyrics": "De donde vengo yo \nLa cosa no es fácil pero siempre igual sobrevivimos \nVengo yo \nDe tanto luchar siempre con la nuestra nos salimos \nVengo yo \nY aquí se habla mal pero todo está mucho mejor \nVengo yo \nTenemos la lluvia el frio el calor \n\nDe la zona de los rapi mami papi\nTenemos problemas pero andamos happy \nComparsa también bailamos salsa \nY bajamos el rio en balsa \nEl calor se siente eeeh… \nY no hay problema pa' tomase su botella de aguardiente \nHace días que soliaos te la pasas enguayabado \n\nTodo el mundo toma whisky… aja \nTodo el mundo anda en moto… aja \nTodo el mundo tiene carro… aja \nMenos nosotros… aja \nTodo el mundo come pollo… aja \nTodo el mundo está embambado… aja \nTodo mundo quiere irse de aquí \nPero ninguno lo ha logrado \n\nDe donde vengo yo \nla cosa no es fácil pero siempre igual sobrevivimos \nVengo yo \nDe tanto luchar siempre con la nuestra nos salimos \nVengo yo \nY aquí se habla mal pero todo está mucho mejor \nVengo yo \nTenemos la lluvia el frio el calor \n\nDe donde vengo yo \nSi mi señor \nSe baila en verbena con gorra y con sol \nCon raros peinados o con extensión \nCritíquenme a mí o lo critico yo \nSi tomo cerveza no tengo el botín \nY si tomo whisky hay chaglo y blin blin \nY si tengo oro en el cuello colgado \nHay ia iay… es porque estoy montado \n\nTodo el mundo toma whisky… aja \nTodo el mundo anda en moto… aja \nTodo el mundo tiene carro… aja \nMenos nosotros… aja \nTodo el mundo come pollo… aja \nTodo el mundo está embambado… aja \nTodo mundo quiere irse de aquí \nPero ninguno lo ha logrado \n\nDe donde vengo yo \nLa cosa no es fácil pero siempre igual sobrevivimos \nVengo yo \nDe tanto luchar siempre con la nuestra nos salimos \nVengo yo \nY aquí se habla mal pero todo está mucho mejor \nVengo yo \nTenemos la lluvia el frio el calor \n\nAcá tomamos agua de coco \nLavamos moto \nTodo el que no quiere andar en rapi moto \nCarretera destapada pa' viajar \nNo plata pa' comer hey… pero si pa' chupar \nCaracterística general alegría total \nInvisibilidad nacional e internacional \nAuto-discriminación sin razón \nRacismo inminente mucha corrupción \nMonte culebra \nMáquina de guerra \nDesplazamientos por intereses en la tierra \nSu tienda de pescado \nAgua por todo lado \nSe represa \nQue ni el discovery ha explotado \n\nHay minas llenas de oro y platino \nReyes en la biodiversidad \nBochinche entre todos los vecinos \nY en deporte ni hablar \n\nDe donde vengo yo \nYa cosa no es fácil pero siempre igual sobrevivimos \nVengo yo \nDe tanto luchar siempre con la nuestra nos salimos \nVengo yo\nY aquí se habla mal pero todo está mucho mejor \nVengo yo \nTenemos la lluvia el frio el calor \n\nChaio condoto istmita… aja\nLa quinta San Pedro yesquita el disfraz (bis)\n\nDe donde vengo yo\nYa cosa no es fácil pero siempre igual sobrevivimos\nVengo yo\nDe tanto luchar siempre con la nuestra nos salimos\nVengo yo\nY aquí se habla mal pero todo está mucho mejor\nVengo yo\nTenemos la lluvia el frio el calor\n\nDe donde vengo yo\nLa cosa no es fácil pero siempre igual sobrevivimos\nVengo yo\nDe tanto luchar siempre con la nuestra nos salimos\nVengo yo\nY aquí se habla mal pero todo está mucho mejor\nVengo yo\nTenemos la lluvia el frio el calor\n\nDe la zona de los rapi mami papi\nTenemos problemas pero andamos happy\nComparsa también bailamos salsa\nY bajamos el rio en balsa\nEl calor se siente eeeh…\nY no hay problema pa' tomase su botella de aguardiente\nHace días que soliaos te la pasas enguayabado\n\nTodo el mundo toma whisky… aja\nTodo el mundo anda en moto… aja\nTodo el mundo tiene carro… aja\nMenos nosotros… aja\nTodo el mundo come pollo… aja\nTodo el mundo está embambado… aja\nTodo mundo quiere irse de aquí\nPero ninguno lo ha logrado\n\nDe donde vengo yo\nla cosa no es fácil pero siempre igual sobrevivimos\nVengo yo\nDe tanto luchar siempre con la nuestra nos salimos\nVengo yo\nY aquí se habla mal pero todo está mucho mejor\nVengo yo\nTenemos la lluvia el frio el calor\n\nDe donde vengo yo\nSi mi señor\nSe baila en verbena con gorra y con sol\nCon raros peinados o con extensión\nCritíquenme a mí o lo critico yo\nSi tomo cerveza no tengo el botín\nY si tomo whisky hay chaglo y blin blin\nY si tengo oro en el cuello colgado\nHay ia iay… es porque estoy montado\n\nTodo el mundo toma whisky… aja\nTodo el mundo anda en moto… aja\nTodo el mundo tiene carro… aja\nMenos nosotros… aja\nTodo el mundo come pollo… aja\nTodo el mundo está embambado… aja\nTodo mundo quiere irse de aquí\nPero ninguno lo ha logrado\n\nDe donde vengo yo\nLa cosa no es fácil pero siempre igual sobrevivimos\nVengo yo\nDe tanto luchar siempre con la nuestra nos salimos\nVengo yo \nY aquí se habla mal pero todo está mucho mejor \nVengo yo \nTenemos la lluvia el frio el calor \n\nAcá tomamos agua de coco \nLavamos moto \nTodo el que no quiere andar en rapi moto \nCarretera destapada pa' viajar \nNo plata pa' comer hey… pero si pa' chupar\nCaracterística general alegría total\nInvisibilidad nacional e internacional\nAuto-discriminación sin razón\nRacismo inminente mucha corrupción\nMonte culebra\nMáquina de guerra\nDesplazamientos por intereses en la tierra\nSu tienda de pescado\nAgua por todo lado\nSe represa\nQue ni el discovery ha explotado\n\Hay minas llenas de oro y platino \nReyes en la biodiversidad \nBochinche entre todos los vecinos \nY en deporte ni hablar \n\nDe donde vengo yo \nYa cosa no es fácil pero siempre igual sobrevivimos \nVengo yo \nDe tanto luchar siempre con la nuestra nos salimos \nVengo yo \nY aquí se habla mal pero todo está mucho mejor \nVengo yo \nTenemos la lluvia el frio el calor",
+                "lyrics": "De donde vengo yo \nLa cosa no es fácil pero siempre igual " +
+                    "sobrevivimos \nVengo yo \nDe tanto luchar siempre con la nuestra " +
+                    "nos salimos \nVengo yo \nY aquí se habla mal pero todo está mucho" +
+                    " mejor \nVengo yo \nTenemos la lluvia el frio el calor \n\nDe la " +
+                    "zona de los rapi mami papi\nTenemos problemas pero andamos happy " +
+                    "\nComparsa también bailamos salsa \nY bajamos el rio en balsa \nE" +
+                    "l calor se siente eeeh… \nY no hay problema pa' tomase su botella" +
+                    " de aguardiente \nHace días que soliaos te la pasas enguayabado \n" +
+                    "\nTodo el mundo toma whisky… aja \nTodo el mundo anda en moto… aj" +
+                    "a \nTodo el mundo tiene carro… aja \nMenos nosotros… aja \nTodo e" +
+                    "l mundo come pollo… aja \nTodo el mundo está embambado… aja \nTod" +
+                    "o mundo quiere irse de aquí \nPero ninguno lo ha logrado \n\nDe d" +
+                    "onde vengo yo \nla cosa no es fácil pero siempre igual sobrevivim" +
+                    "os \nVengo yo \nDe tanto luchar siempre con la nuestra nos salimo" +
+                    "s \nVengo yo \nY aquí se habla mal pero todo está mucho mejor \nV" +
+                    "engo yo \nTenemos la lluvia el frio el calor \n\nDe donde vengo y" +
+                    "o \nSi mi señor \nSe baila en verbena con gorra y con sol \nCon r" +
+                    "aros peinados o con extensión \nCritíquenme a mí o lo critico yo \n" +
+                    "Si tomo cerveza no tengo el botín \nY si tomo whisky hay chaglo y" +
+                    " blin blin \nY si tengo oro en el cuello colgado \nHay ia iay… es" +
+                    " porque estoy montado \n\nTodo el mundo toma whisky… aja \nTodo e" +
+                    "l mundo anda en moto… aja \nTodo el mundo tiene carro… aja \nMeno" +
+                    "s nosotros… aja \nTodo el mundo come pollo… aja \nTodo el mundo e" +
+                    "stá embambado… aja \nTodo mundo quiere irse de aquí \nPero ningun" +
+                    "o lo ha logrado \n\nDe donde vengo yo \nLa cosa no es fácil pero " +
+                    "siempre igual sobrevivimos \nVengo yo \nDe tanto luchar siempre c" +
+                    "on la nuestra nos salimos \nVengo yo \nY aquí se habla mal pero t" +
+                    "odo está mucho mejor \nVengo yo \nTenemos la lluvia el frio el ca" +
+                    "lor \n\nAcá tomamos agua de coco \nLavamos moto \nTodo el que no " +
+                    "quiere andar en rapi moto \nCarretera destapada pa' viajar \nNo p" +
+                    "lata pa' comer hey… pero si pa' chupar \nCaracterística general a" +
+                    "legría total \nInvisibilidad nacional e internacional \nAuto-disc" +
+                    "riminación sin razón \nRacismo inminente mucha corrupción \nMonte" +
+                    " culebra \nMáquina de guerra \nDesplazamientos por intereses en l" +
+                    "a tierra \nSu tienda de pescado \nAgua por todo lado \nSe represa" +
+                    " \nQue ni el discovery ha explotado \n\nHay minas llenas de oro y" +
+                    " platino \nReyes en la biodiversidad \nBochinche entre todos los " +
+                    "vecinos \nY en deporte ni hablar \n\nDe donde vengo yo \nYa cosa " +
+                    "no es fácil pero siempre igual sobrevivimos \nVengo yo \nDe tanto" +
+                    " luchar siempre con la nuestra nos salimos \nVengo yo\nY aquí se " +
+                    "habla mal pero todo está mucho mejor \nVengo yo \nTenemos la lluv" +
+                    "ia el frio el calor \n\nChaio condoto istmita… aja\nLa quinta San" +
+                    " Pedro yesquita el disfraz (bis)\n\nDe donde vengo yo\nYa cosa no" +
+                    " es fácil pero siempre igual sobrevivimos\nVengo yo\nDe tanto luc" +
+                    "har siempre con la nuestra nos salimos\nVengo yo\nY aquí se habla" +
+                    " mal pero todo está mucho mejor\nVengo yo\nTenemos la lluvia el f" +
+                    "rio el calor\n\nDe donde vengo yo\nLa cosa no es fácil pero siemp" +
+                    "re igual sobrevivimos\nVengo yo\nDe tanto luchar siempre con la n" +
+                    "uestra nos salimos\nVengo yo\nY aquí se habla mal pero todo está " +
+                    "mucho mejor\nVengo yo\nTenemos la lluvia el frio el calor\n\nDe l" +
+                    "a zona de los rapi mami papi\nTenemos problemas pero andamos happ" +
+                    "y\nComparsa también bailamos salsa\nY bajamos el rio en balsa\nEl" +
+                    " calor se siente eeeh…\nY no hay problema pa' tomase su botella d" +
+                    "e aguardiente\nHace días que soliaos te la pasas enguayabado\n\nT" +
+                    "odo el mundo toma whisky… aja\nTodo el mundo anda en moto… aja\nT" +
+                    "odo el mundo tiene carro… aja\nMenos nosotros… aja\nTodo el mundo" +
+                    " come pollo… aja\nTodo el mundo está embambado… aja\nTodo mundo q" +
+                    "uiere irse de aquí\nPero ninguno lo ha logrado\n\nDe donde vengo " +
+                    "yo\nla cosa no es fácil pero siempre igual sobrevivimos\nVengo yo" +
+                    "\nDe tanto luchar siempre con la nuestra nos salimos\nVengo yo\nY" +
+                    " aquí se habla mal pero todo está mucho mejor\nVengo yo\nTenemos " +
+                    "la lluvia el frio el calor\n\nDe donde vengo yo\nSi mi señor\nSe " +
+                    "baila en verbena con gorra y con sol\nCon raros peinados o con ex" +
+                    "tensión\nCritíquenme a mí o lo critico yo\nSi tomo cerveza no ten" +
+                    "go el botín\nY si tomo whisky hay chaglo y blin blin\nY si tengo " +
+                    "oro en el cuello colgado\nHay ia iay… es porque estoy montado\n\n" +
+                    "Todo el mundo toma whisky… aja\nTodo el mundo anda en moto… aja\n" +
+                    "Todo el mundo tiene carro… aja\nMenos nosotros… aja\nTodo el mund" +
+                    "o come pollo… aja\nTodo el mundo está embambado… aja\nTodo mundo " +
+                    "quiere irse de aquí\nPero ninguno lo ha logrado\n\nDe donde vengo" +
+                    " yo\nLa cosa no es fácil pero siempre igual sobrevivimos\nVengo y" +
+                    "o\nDe tanto luchar siempre con la nuestra nos salimos\nVengo yo \n" +
+                    "Y aquí se habla mal pero todo está mucho mejor \nVengo yo \nTenem" +
+                    "os la lluvia el frio el calor \n\nAcá tomamos agua de coco \nLava" +
+                    "mos moto \nTodo el que no quiere andar en rapi moto \nCarretera d" +
+                    "estapada pa' viajar \nNo plata pa' comer hey… pero si pa' chupar\n" +
+                    "Característica general alegría total\nInvisibilidad nacional e in" +
+                    "ternacional\nAuto-discriminación sin razón\nRacismo inminente muc" +
+                    "ha corrupción\nMonte culebra\nMáquina de guerra\nDesplazamientos " +
+                    "por intereses en la tierra\nSu tienda de pescado\nAgua por todo l" +
+                    "ado\nSe represa\nQue ni el discovery ha explotado\n\Hay minas lle" +
+                    "nas de oro y platino \nReyes en la biodiversidad \nBochinche entr" +
+                    "e todos los vecinos \nY en deporte ni hablar \n\nDe donde vengo y" +
+                    "o \nYa cosa no es fácil pero siempre igual sobrevivimos \nVengo y" +
+                    "o \nDe tanto luchar siempre con la nuestra nos salimos \nVengo yo" +
+                    " \nY aquí se habla mal pero todo está mucho mejor \nVengo yo \nTe" +
+                    "nemos la lluvia el frio el calor",
                 "difficulty": 3
             },
             {
                 "name": "Hasta el techo",
                 "duration": 191,
-                "lyrics": "Oye.. \ncómo.. \noye.. \n\nMis días a tu lado nunca han sido grises \nme gustan tus colores, todos tus matices \nandar por tu silencio sin poder sentirte \nnos sobran las palabras, somos tan felices. \n\nYo vivo amándote, mirándote, deseándote \n(no lo puedo evitar) \npensándote, soñándote, adorándote.. \n\nTu amor me lleva hasta el techo \ny no puedo bajar \ncomo un misterio, da miedo \npero yo no me voy a asustar. \n\n(Es amor, es amor) Lo que siento \n(es amor, es amor) viene de adentro \n(es amor, es amor) todo lo que siento por vos. \n(Es amor, es amor) Lo que siento \n(es amor, es amor) viene de adentro \n(es amor, es amor) todo lo que siento por vos. \n\nAntes de tenerte no estaba muriéndome \npero ahora estoy viviendo y de qupe manera. \nTenerte entre mis brazos es mi vida entera \nvalió la pena el tiempo que duré buscándote. \n\nMirándote, amándote, deseándote \n(no lo puedo evitar) \npensándote, soñándote, adorándote.. \n\nTu amor me lleva hasta el techo \ny no puedo bajar \ncomo un misterio, da miedo \npero yo no me voy.. \nTu amor me lleva hasta el techo \ny no puedo bajar \ncomo un misterio, da miedo \npero yo no me voy a asustar. \n\n(Es amor, es amor) Lo que siento \n(es amor, es amor) viene de adentro \n(es amor, es amor) todo lo que siento por vos. \n(Es amor, es amor) Lo que siento \n(es amor, es amor) viene de adentro \n(es amor, es amor) todo lo que siento por vos. \n\nLo que siento por ti es amor sincero, \nmutuo, de corazón, tú me quieres, yo te quiero. \nTe veo y lo compruebo, la vida va primero \ny doy gracias a Dios que está en el cielo. \n\nYeah, y doy gracias a Dios que está en el cielo \n yeah, le digo de lo mucho que te quiero. \nporque eres el ángel que cuida mis sueños \nde ese cielo que es sólo para ti, baby \ny le prometí hasta al aire \nsólo vivir junto a ti. \n\nTu amor me lleva hasta el techo \ny no puedo bajar \ncomo un misterio, da miedo \npero yo no me voy.. \nTu amor me lleva hasta el techo \ny no puedo bajar \ncomo un misterio, da miedo \npero yo no me voy a asustar.",
+                "lyrics": "Oye.. \ncómo.. \noye.. \n\nMis días a tu lado nunca han sido" +
+                    " grises \nme gustan tus colores, todos tus matices \nandar por tu " +
+                    "silencio sin poder sentirte \nnos sobran las palabras, somos tan f" +
+                    "elices. \n\nYo vivo amándote, mirándote, deseándote \n(no lo puedo" +
+                    " evitar) \npensándote, soñándote, adorándote.. \n\nTu amor me llev" +
+                    "a hasta el techo \ny no puedo bajar \ncomo un misterio, da miedo \n" +
+                    "pero yo no me voy a asustar. \n\n(Es amor, es amor) Lo que siento " +
+                    "\n(es amor, es amor) viene de adentro \n(es amor, es amor) todo lo" +
+                    " que siento por vos. \n(Es amor, es amor) Lo que siento \n(es amor" +
+                    ", es amor) viene de adentro \n(es amor, es amor) todo lo que sient" +
+                    "o por vos. \n\nAntes de tenerte no estaba muriéndome \npero ahora " +
+                    "estoy viviendo y de qupe manera. \nTenerte entre mis brazos es mi " +
+                    "vida entera \nvalió la pena el tiempo que duré buscándote. \n\nMir" +
+                    "ándote, amándote, deseándote \n(no lo puedo evitar) \npensándote, " +
+                    "soñándote, adorándote.. \n\nTu amor me lleva hasta el techo \ny no" +
+                    " puedo bajar \ncomo un misterio, da miedo \npero yo no me voy.. \n" +
+                    "Tu amor me lleva hasta el techo \ny no puedo bajar \ncomo un miste" +
+                    "rio, da miedo \npero yo no me voy a asustar. \n\n(Es amor, es amor" +
+                    ") Lo que siento \n(es amor, es amor) viene de adentro \n(es amor, " +
+                    "es amor) todo lo que siento por vos. \n(Es amor, es amor) Lo que s" +
+                    "iento \n(es amor, es amor) viene de adentro \n(es amor, es amor) t" +
+                    "odo lo que siento por vos. \n\nLo que siento por ti es amor sincer" +
+                    "o, \nmutuo, de corazón, tú me quieres, yo te quiero. \nTe veo y lo" +
+                    " compruebo, la vida va primero \ny doy gracias a Dios que está en " +
+                    "el cielo. \n\nYeah, y doy gracias a Dios que está en el cielo \n y" +
+                    "eah, le digo de lo mucho que te quiero. \nporque eres el ángel que" +
+                    " cuida mis sueños \nde ese cielo que es sólo para ti, baby \ny le " +
+                    "prometí hasta al aire \nsólo vivir junto a ti. \n\nTu amor me llev" +
+                    "a hasta el techo \ny no puedo bajar \ncomo un misterio, da miedo \n" +
+                    "pero yo no me voy.. \nTu amor me lleva hasta el techo \ny no puedo" +
+                    " bajar \ncomo un misterio, da miedo \npero yo no me voy a asustar.",
                 "difficulty": 3
             }
         ]
