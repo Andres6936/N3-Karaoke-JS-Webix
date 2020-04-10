@@ -78,7 +78,9 @@ let appLayout = {
                 {
                     rows: [
                         {view: "button", value: "Add List"},
-                        {view: "button", value: "Delete List", css: "webix_danger"},
+                        {
+                            id: "buttonDeleteList", view: "button", value: "Delete List", css: "webix_danger"
+                        },
                         {view: "button", value: "Update List"},
                     ]
                 }
