@@ -141,19 +141,85 @@ const artists = [
             {
                 "name": "Diamonds",
                 "duration": 225,
-                "lyrics": "Shine bright like a diamond \nShine bright like a diamond \n\nFind light in the beautiful sea \nI choose to be happy \nYou and I, you and I \nWe're like diamonds in the sky \n\nYou're a shooting star I see \nA vision of ecstasy \nWhen you hold me, I'm alive \nWe're like diamonds in the sky \n\nI knew that we'd become one right away \nOh, right away \nAt first sight I left the energy of sun rays \nI saw the life inside your eyes \n\nSo shine bright, tonight you and I \nWe're beautiful like diamonds in the sky \nEye to eye, so alive \nWe're beautiful like diamonds in the sky \n\nShine bright like a diamond \nShine bright like a diamond \nShining bright like a diamond \nWe're beautiful like diamonds in the sky \n\nShine bright like a diamond \nShine bright like a diamond \nShining bright like a diamond \nWe're beautiful like diamonds in the sky \n\nPalms rise to the universe \nAs we moonshine and molly \nFeel the warmth, we'll never die \nWe're like diamonds in the sky \n\nYou're a shooting star I see \nA vision of ecstasy \nWhen you hold me, I'm alive \nWe're like diamonds in the sky \nAt first sight I felt the energy of sun rays \nI saw the life inside your eyes \nSo shine bright, tonight you and I \nWe're beautiful like diamonds in the sky \nEye to eye, so alive \nWe're beautiful like diamonds in the sky \n\nShine bright like a diamond \nShine bright like a diamond \nShining bright like a diamond \nWe're beautiful like diamonds in the sky \n\nShine bright like a diamond \nShine bright like a diamond \nShining bright like a diamond \nWe're beautiful like diamonds in the sky \n\nShine bright like a diamond \nShine bright like a diamond \nShine bright like a diamond",
+                "lyrics": "Shine bright like a diamond \nShine bright like a diamond \n" +
+                    "\nFind light in the beautiful sea \nI choose to be happy \nYou and" +
+                    " I, you and I \nWe're like diamonds in the sky \n\nYou're a shooti" +
+                    "ng star I see \nA vision of ecstasy \nWhen you hold me, I'm alive " +
+                    "\nWe're like diamonds in the sky \n\nI knew that we'd become one r" +
+                    "ight away \nOh, right away \nAt first sight I left the energy of s" +
+                    "un rays \nI saw the life inside your eyes \n\nSo shine bright, ton" +
+                    "ight you and I \nWe're beautiful like diamonds in the sky \nEye to" +
+                    " eye, so alive \nWe're beautiful like diamonds in the sky \n\nShin" +
+                    "e bright like a diamond \nShine bright like a diamond \nShining br" +
+                    "ight like a diamond \nWe're beautiful like diamonds in the sky \n\n" +
+                    "Shine bright like a diamond \nShine bright like a diamond \nShinin" +
+                    "g bright like a diamond \nWe're beautiful like diamonds in the sky" +
+                    " \n\nPalms rise to the universe \nAs we moonshine and molly \nFeel" +
+                    " the warmth, we'll never die \nWe're like diamonds in the sky \n\n" +
+                    "You're a shooting star I see \nA vision of ecstasy \nWhen you hold" +
+                    " me, I'm alive \nWe're like diamonds in the sky \nAt first sight I" +
+                    " felt the energy of sun rays \nI saw the life inside your eyes \nS" +
+                    "o shine bright, tonight you and I \nWe're beautiful like diamonds " +
+                    "in the sky \nEye to eye, so alive \nWe're beautiful like diamonds " +
+                    "in the sky \n\nShine bright like a diamond \nShine bright like a d" +
+                    "iamond \nShining bright like a diamond \nWe're beautiful like diam" +
+                    "onds in the sky \n\nShine bright like a diamond \nShine bright lik" +
+                    "e a diamond \nShining bright like a diamond \nWe're beautiful like" +
+                    " diamonds in the sky \n\nShine bright like a diamond \nShine brigh" +
+                    "t like a diamond \nShine bright like a diamond",
                 "difficulty": 5
             },
             {
                 "name": "Umbrella",
                 "duration": 256,
-                "lyrics": "Gyeah, Rihanna \nGood Girl Gone Bad \nTake three, action \n\nNo clouds in my storms \nLet it rain, I hydroplane into fame \nComin' down like the Dow Jones \nWhen the clouds come, we gone \nWe Roc-A-Fellas \nWe fly higher than weather \nAnd she flies it better \nYou know me, in anticipation for precipitation \nStack chips for the rainy day \nJay, Rain Man is back with Little Miss Sunshine \nRihanna, where you at? \n\nYou had my heart, and we'll never be worlds apart \nMaybe in magazines, but you'll still be my star \nBaby 'cause in the dark, you can't see shiny cars \nAnd that's when you need me there \nWith you, I'll always share \n\nBecause when the sun shines, we'll shine together \nTold you I'll be here forever \nSaid I'll always be your friend \nTook an oath, I'ma stick it out to the end \nNow that it's raining more than ever \nKnow that we'll still have each other \nYou can stand under my umbrella \nYou can stand under my umbrella \n(Ella ella, eh eh eh) \nUnder my umbrella \n(Ella ella, eh eh eh) \nUnder my umbrella \n(Ella ella, eh eh eh) \nUnder my umbrella \n(Ella ella, eh eh eh eh,eh eh) \n\nThese fancy things will never come in between \nYou're part of my entity, here for infinity \nWhen the war has took its part \nWhen the world has dealt its cards \nIf the hand is hard, together we'll mend your heart \n\nBecause when the sun shines, we'll shine together \nTold you I'll be here forever \nSaid I'll always be your friend \nTook an oath, I'ma stick it out to the end \nNow that it's raining more than ever \nKnow that we'll still have each other \nYou can stand under my umbrella \nYou can stand under my umbrella \n(Ella ella, eh eh eh) \nUnder my umbrella \n(Ella ella, eh eh eh) \nUnder my umbrella \n(Ella ella, eh eh eh) \nUnder my umbrella \n(Ella ella, eh eh eh eh,eh eh)",
+                "lyrics": "Gyeah, Rihanna \nGood Girl Gone Bad \nTake three, action \n\n" +
+                    "No clouds in my storms \nLet it rain, I hydroplane into fame \nCom" +
+                    "in' down like the Dow Jones \nWhen the clouds come, we gone \nWe R" +
+                    "oc-A-Fellas \nWe fly higher than weather \nAnd she flies it better" +
+                    " \nYou know me, in anticipation for precipitation \nStack chips fo" +
+                    "r the rainy day \nJay, Rain Man is back with Little Miss Sunshine " +
+                    "\nRihanna, where you at? \n\nYou had my heart, and we'll never be " +
+                    "worlds apart \nMaybe in magazines, but you'll still be my star \nB" +
+                    "aby 'cause in the dark, you can't see shiny cars \nAnd that's when" +
+                    " you need me there \nWith you, I'll always share \n\nBecause when " +
+                    "the sun shines, we'll shine together \nTold you I'll be here forev" +
+                    "er \nSaid I'll always be your friend \nTook an oath, I'ma stick it" +
+                    " out to the end \nNow that it's raining more than ever \nKnow that" +
+                    " we'll still have each other \nYou can stand under my umbrella \nY" +
+                    "ou can stand under my umbrella \n(Ella ella, eh eh eh) \nUnder my " +
+                    "umbrella \n(Ella ella, eh eh eh) \nUnder my umbrella \n(Ella ella," +
+                    " eh eh eh) \nUnder my umbrella \n(Ella ella, eh eh eh eh,eh eh) \n" +
+                    "\nThese fancy things will never come in between \nYou're part of m" +
+                    "y entity, here for infinity \nWhen the war has took its part \nWhe" +
+                    "n the world has dealt its cards \nIf the hand is hard, together we" +
+                    "'ll mend your heart \n\nBecause when the sun shines, we'll shine t" +
+                    "ogether \nTold you I'll be here forever \nSaid I'll always be your" +
+                    " friend \nTook an oath, I'ma stick it out to the end \nNow that it" +
+                    "'s raining more than ever \nKnow that we'll still have each other " +
+                    "\nYou can stand under my umbrella \nYou can stand under my umbrell" +
+                    "a \n(Ella ella, eh eh eh) \nUnder my umbrella \n(Ella ella, eh eh " +
+                    "eh) \nUnder my umbrella \n(Ella ella, eh eh eh) \nUnder my umbrell" +
+                    "a \n(Ella ella, eh eh eh eh,eh eh)",
                 "difficulty": 6
             },
             {
                 "name": "We found love",
                 "duration": 256,
-                "lyrics": "Yellow diamonds in the light \nAnd we're standing side by side \nAs your shadow crosses mine \nWhat it takes to come alive \n\nIt's the way I'm feeling  \nI just can't deny \nBut I've gotta let it go \n\nWe found love in a hopeless place \nWe found love in a hopeless place \nWe found love in a hopeless place \nWe found love in a hopeless place \n\nShine a light through an open door\nLove and life I will divide\nTurn away cause I need you more\nFeel the heartbeat in my mind\n\nIt's the way I'm feeling \nI just can't deny\nBut I've gotta let it go\n\nWe found love in a hopeless place\nWe found love in a hopeless place\nWe found love in a hopeless place\nWe found love in a hopeless place\n\nYellow diamonds in the light\nAnd we're standing side by side\nAs your shadow crosses mine\nWe found love in a hopeless place\n\nWe found love in a hopeless place\nWe found love in a hopeless place\nWe found love in a hopeless place\n(bis)",
+                "lyrics": "Yellow diamonds in the light \nAnd we're standing side by si" +
+                    "de \nAs your shadow crosses mine \nWhat it takes to come alive \n" +
+                    "\nIt's the way I'm feeling  \nI just can't deny \nBut I've gotta l" +
+                    "et it go \n\nWe found love in a hopeless place \nWe found love in " +
+                    "a hopeless place \nWe found love in a hopeless place \nWe found lo" +
+                    "ve in a hopeless place \n\nShine a light through an open door\nLov" +
+                    "e and life I will divide\nTurn away cause I need you more\nFeel th" +
+                    "e heartbeat in my mind\n\nIt's the way I'm feeling \nI just can't " +
+                    "deny\nBut I've gotta let it go\n\nWe found love in a hopeless plac" +
+                    "e\nWe found love in a hopeless place\nWe found love in a hopeless " +
+                    "place\nWe found love in a hopeless place\n\nYellow diamonds in the" +
+                    " light\nAnd we're standing side by side\nAs your shadow crosses mi" +
+                    "ne\nWe found love in a hopeless place\n\nWe found love in a hopele" +
+                    "ss place\nWe found love in a hopeless place\nWe found love in a ho" +
+                    "peless place\n(bis)",
                 "difficulty": 5
             }
         ]
@@ -164,13 +230,71 @@ const artists = [
             {
                 "name": "Smooth criminal",
                 "duration": 202,
-                "lyrics": "As he came into the window\nIt was the sound of a crescendo\nHe came into her apartment\nHe left the bloodstains on the carpet\n\nShe ran underneath the table\nHe could see she was unable\nSo she ran into the bedroom\nShe was struck down, it was her doom\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok, Annie?\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok, Annie?\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok, Annie?\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok, Annie?\n\n(Annie are you ok?)\n(Will you tell us that you're ok?)\n(There's a sign in the window)\n(That he struck you)\n(A crescendo Annie)\n\n(He came into your apartment)\n(He left the bloodstains on the carpet)\n(Then you ran into the bedroom)\n(You were struck down)\n(It was your doom)\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\nYou've been hit by\nYou've been hit by\nA smooth criminal\n\nSo they came into the out way\nIt was Sunday - what a black day\nMouth to mouth resus - citation\nSounding heartbeats - intimidations\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\n(Annie are you ok?)\n(Will you tell us that you're ok?)\n(There's a sign in the window)\n(That he struck you)\n(A crescendo Annie)\n\n(He came into your apartment)\n(He left the bloodstains on the carpet)\n(Then you ran into the bedroom)\n(You were struck down)\n(It was your doom)\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\nYou've been hit by\nYou've been struck by\nA smooth criminal\n",
+                "lyrics": "As he came into the window\nIt was the sound of a crescendo\n" +
+                    "He came into her apartment\nHe left the bloodstains on the carpet\n" +
+                    "\nShe ran underneath the table\nHe could see she was unable\nSo sh" +
+                    "e ran into the bedroom\nShe was struck down, it was her doom\n\nAn" +
+                    "nie are you ok?\nSo, Annie are you ok?\nAre you ok, Annie?\n\nAnni" +
+                    "e are you ok?\nSo, Annie are you ok?\nAre you ok, Annie?\n\nAnnie " +
+                    "are you ok?\nSo, Annie are you ok?\nAre you ok, Annie?\n\nAnnie ar" +
+                    "e you ok?\nSo, Annie are you ok?\nAre you ok, Annie?\n\n(Annie are" +
+                    " you ok?)\n(Will you tell us that you're ok?)\n(There's a sign in " +
+                    "the window)\n(That he struck you)\n(A crescendo Annie)\n\n(He came" +
+                    " into your apartment)\n(He left the bloodstains on the carpet)\n(T" +
+                    "hen you ran into the bedroom)\n(You were struck down)\n(It was you" +
+                    "r doom)\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok An" +
+                    "nie?\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie" +
+                    "?\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n" +
+                    "\nYou've been hit by\nYou've been hit by\nA smooth criminal\n\nSo " +
+                    "they came into the out way\nIt was Sunday - what a black day\nMout" +
+                    "h to mouth resus - citation\nSounding heartbeats - intimidations\n" +
+                    "\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\nA" +
+                    "nnie are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\nAnni" +
+                    "e are you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\nAnnie a" +
+                    "re you ok?\nSo, Annie are you ok?\nAre you ok Annie?\n\n(Annie are" +
+                    " you ok?)\n(Will you tell us that you're ok?)\n(There's a sign in " +
+                    "the window)\n(That he struck you)\n(A crescendo Annie)\n\n(He came" +
+                    " into your apartment)\n(He left the bloodstains on the carpet)\n(T" +
+                    "hen you ran into the bedroom)\n(You were struck down)\n(It was you" +
+                    "r doom)\n\nAnnie are you ok?\nSo, Annie are you ok?\nAre you ok An" +
+                    "nie?\nYou've been hit by\nYou've been struck by\nA smooth criminal\n",
                 "difficulty": 6
             },
             {
                 "name": "Billie Jean",
                 "duration": 2009,
-                "lyrics": "She was more like a beauty queen from a movie \nI said don't mind, but what do you mean I am the one\nWho will dance on the floor in the round\nShe said I am the one who will dance on the floor in the round\n\nShe told me her name was Billie Jean, as she caused a scene\nThen every head turned with eyes that dreamed of being the one\nWho will dance on the floor in the round\n\nPeople always told me be careful of what you do\nAnd don't go around breaking young girls' hearts\nAnd mother always told me be careful of who you love\nAnd be careful of what you do 'cause the lie becomes the truth\n\nBillie Jean is not my lover\nShe's just a girl who claims that I am the one\nBut the kid is not my son\nShe says I am the one, but the kid is not my son\n\nFor forty days and forty nights\nThe law was on her side\nBut who can stand when she's in demand\nHer schemes and plans\n'cause we danced on the floor in the round\nSo take my strong advice, just remember to always think twice\n(do think twice.)\n\nShe told my baby we'd danced 'til three\nThen she looked at me\nShe showed a photo of a baby crying\nHis eyes looked like mine\nGo on dance on the floor in the round, baby\n\nPeople always told me be careful of what you do\nAnd don't go around breaking young girls' hearts\nShe came and stood right by me\nThen the smell of sweet perfume\nThis happened much too soon\nShe called me to her room\n\nBillie Jean is not my lover\nShe's just a girl who claims that I am the one\nBut the kid is not my son\nBillie Jean is not my lover\nShe's just a girl who claims that I am the one\nBut the kid is not my son\nShe says I am the one, but the kid is not my son\n\nShe says I am the one, but the kid is not my son\n\nBillie Jean is not my lover\nShe's just a girl who claims that I am the one\nBut the kid is not my son\nShe says I am the one, but the kid is not my son\nShe says I am the one, she says he is my son\nShe says I am the one\nBillie Jean is not my lover\nBillie Jean is not my lover\nBillie Jean is not my lover\nBillie Jean is not my lover\nBillie Jean is not my lover\nBillie Jean is not my lover\n",
+                "lyrics": "She was more like a beauty queen from a movie \nI said don't" +
+                    " mind, but what do you mean I am the one\nWho will dance on the fl" +
+                    "oor in the round\nShe said I am the one who will dance on the floo" +
+                    "r in the round\n\nShe told me her name was Billie Jean, as she cau" +
+                    "sed a scene\nThen every head turned with eyes that dreamed of bein" +
+                    "g the one\nWho will dance on the floor in the round\n\nPeople alwa" +
+                    "ys told me be careful of what you do\nAnd don't go around breaking" +
+                    " young girls' hearts\nAnd mother always told me be careful of who " +
+                    "you love\nAnd be careful of what you do 'cause the lie becomes the" +
+                    " truth\n\nBillie Jean is not my lover\nShe's just a girl who claim" +
+                    "s that I am the one\nBut the kid is not my son\nShe says I am the " +
+                    "one, but the kid is not my son\n\nFor forty days and forty nights\n" +
+                    "The law was on her side\nBut who can stand when she's in demand\nH" +
+                    "er schemes and plans\n'cause we danced on the floor in the round\n" +
+                    "So take my strong advice, just remember to always think twice\n(do" +
+                    " think twice.)\n\nShe told my baby we'd danced 'til three\nThen sh" +
+                    "e looked at me\nShe showed a photo of a baby crying\nHis eyes look" +
+                    "ed like mine\nGo on dance on the floor in the round, baby\n\nPeopl" +
+                    "e always told me be careful of what you do\nAnd don't go around br" +
+                    "eaking young girls' hearts\nShe came and stood right by me\nThen t" +
+                    "he smell of sweet perfume\nThis happened much too soon\nShe called" +
+                    " me to her room\n\nBillie Jean is not my lover\nShe's just a girl " +
+                    "who claims that I am the one\nBut the kid is not my son\nBillie Je" +
+                    "an is not my lover\nShe's just a girl who claims that I am the one" +
+                    "\nBut the kid is not my son\nShe says I am the one, but the kid is" +
+                    " not my son\n\nShe says I am the one, but the kid is not my son\n" +
+                    "\nBillie Jean is not my lover\nShe's just a girl who claims that I" +
+                    " am the one\nBut the kid is not my son\nShe says I am the one, but" +
+                    " the kid is not my son\nShe says I am the one, she says he is my s" +
+                    "on\nShe says I am the one\nBillie Jean is not my lover\nBillie Jea" +
+                    "n is not my lover\nBillie Jean is not my lover\nBillie Jean is not" +
+                    " my lover\nBillie Jean is not my lover\nBillie Jean is not my lover\n",
                 "difficulty": 3
             }
         ]
