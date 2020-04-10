@@ -1,6 +1,6 @@
-import {panelListTrack} from "./view/panelListTrack.js";
 import {panelOptionsTracks} from "./view/panelOptionsTracks.js";
 import {panelOptionsList} from "./view/panelOptionsList.js";
+import {panelListTrack} from "./view/panelListTrack.js";
 import {panelProperty} from "./view/panelProperty.js";
 import {panelLyrics} from "./view/panelLyrics.js";
 import {panelPlay} from "./view/panelPlay.js";
