@@ -2,6 +2,7 @@ import {panelListTrack} from "./view/panelListTrack.js";
 import {panelOptionsTracks} from "./view/panelOptionsTracks.js";
 import {panelOptionsList} from "./view/panelOptionsList.js";
 import {panelProperty} from "./view/panelProperty.js";
+import {panelLyrics} from "./view/panelLyrics.js";
 
 let appLayout = {
     width: 800,
@@ -24,13 +25,7 @@ let appLayout = {
                 {
                     rows: [
                         panelProperty,
-                        {
-                            id: "panelLyrics",
-                            view: "textarea",
-                            label: "Lyrics",
-                            labelPosition: "top",
-                            readonly: true,
-                        },
+                        panelLyrics,
                         {
                             cols: [
                                 {
